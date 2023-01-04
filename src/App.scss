@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  #recipe-box{
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+  }
+  #newrecipe{
+    background-color: rgb(177, 237, 243);
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  #dessertbutton{
+    background-color: rgb(177, 237, 243);
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  .App-header {
+  background-color: #cba1f3;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+}
+
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+
