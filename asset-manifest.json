@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/get-recipe-machine/static/css/main.4fc4ebfe.css",
+    "main.js": "/get-recipe-machine/static/js/main.0f090089.js",
+    "static/js/787.2536f323.chunk.js": "/get-recipe-machine/static/js/787.2536f323.chunk.js",
+    "index.html": "/get-recipe-machine/index.html",
+    "main.4fc4ebfe.css.map": "/get-recipe-machine/static/css/main.4fc4ebfe.css.map",
+    "main.0f090089.js.map": "/get-recipe-machine/static/js/main.0f090089.js.map",
+    "787.2536f323.chunk.js.map": "/get-recipe-machine/static/js/787.2536f323.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc4ebfe.css",
+    "static/js/main.0f090089.js"
+  ]
+}
