@@ -2,3 +2,6 @@ Have you ever had the problem of deciding what to eat everyday? To ask your fami
 
 
 DEMO: https://neonotfrommatrix.github.io/get-recipe-machine/
+
+
+*Edit: still adding more recipes as I find them. Functionlity is up and working, though!
